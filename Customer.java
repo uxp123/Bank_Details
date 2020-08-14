@@ -98,7 +98,7 @@ public class Customer extends Bank{
         System.out.println("AccountNumber: " + this.accountnumber);
         System.out.println("Total Deposits: " + this.deposits);
         System.out.println("Total Withdrawals: " + this.withdrawals);
-        System.out.println("==============================================");
+        System.out.println("●●◇●●◇●●◇●●◇●●◇●●◇●●◇●●◇●●◇●●◇●●◇●●◇●●◇");
     }
     
    
