@@ -1,4 +1,4 @@
-//Developer: Philip Fynn
+//Developer: Papsy
 
 public class Bank {
      private String bankName;
